@@ -1,0 +1,1 @@
+##Test tworzenia punktów nawigacyjnych na mapie
